@@ -1,2 +1,3 @@
 # PHPmySQL
-PHP and MySQL
+PHP and MySQL.
+Shivam is getting familiar with GitHub.
